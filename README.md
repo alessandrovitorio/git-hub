@@ -1,7 +1,3 @@
-Aqui está o **README do jeito que você falaria**, claro, direto, didático, com explicações completas para registro de entendimento — como se fosse você preparando o material da aula para seus alunos e para o time.
-
----
-
 # 📘 Fluxo de Trabalho com Git e GitHub em Time
 
 ### (GitFlow manual — tudo explicado para registro de entendimento)
